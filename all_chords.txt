@@ -1,0 +1,130 @@
+CM C E G
+C#M C# F G#
+DM D F# A
+D#M D# G A#
+EM E G# B
+FM F A C
+F#M F# A# C#
+GM G B D
+G#M G# C D#
+AM A C# E
+A#M A# D F
+BM B D# F#
+CM C E G
+CM7 C E G B
+C#M7 C# F G# C
+DM7 D F# A C#
+D#M7 D# G A# D
+EM7 E G# B D#
+FM7 F A C E
+F#M7 F# A# C# F
+GM7 G B D F#
+G#M7 G# C D# G
+AM7 A C# E G#
+A#M7 A# D F A
+BM7 B D# F# A#
+CM7 C E G B
+CM9 C E G B D
+C#M9 C# F G# C D#
+DM9 D F# A C# E
+D#M9 D# G A# D F
+EM9 E G# B D# F#
+FM9 F A C E G
+F#M9 F# A# C# F G#
+GM9 G B D F# A
+G#M9 G# C D# G A#
+AM9 A C# E G# B
+A#M9 A# D F A C
+BM9 B D# F# A# C#
+CM9 C E G B D
+CM11 C E G B D F
+C#M11 C# F G# C D# F#
+DM11 D F# A C# E G
+D#M11 D# G A# D F G#
+EM11 E G# B D# F# A
+FM11 F A C E G A#
+F#M11 F# A# C# F G# B
+GM11 G B D F# A C
+G#M11 G# C D# G A# C#
+AM11 A C# E G# B D
+A#M11 A# D F A C D#
+BM11 B D# F# A# C# E
+CM11 C E G B D F
+CM13 C E G B D F A
+C#M13 C# F G# C D# F# A#
+DM13 D F# A C# E G B
+D#M13 D# G A# D F G# C
+EM13 E G# B D# F# A C#
+FM13 F A C E G A# D
+F#M13 F# A# C# F G# B D#
+GM13 G B D F# A C E
+G#M13 G# C D# G A# C# F
+AM13 A C# E G# B D F#
+A#M13 A# D F A C D# G
+BM13 B D# F# A# C# E G#
+CM13 C E G B D F A
+Cm C D# G
+C#m C# E G#
+Dm D F A
+D#m D# F# A#
+Em E G B
+Fm F G# C
+F#m F# A C#
+Gm G A# D
+G#m G# B D#
+Am A C E
+A#m A# C# F
+Bm B D F#
+Cm C D# G
+Cm7 C D# G A#
+C#m7 C# E G# B
+Dm7 D F A C
+D#m7 D# F# A# C#
+Em7 E G B D
+Fm7 F G# C D#
+F#m7 F# A C# E
+Gm7 G A# D F
+G#m7 G# B D# F#
+Am7 A C E G
+A#m7 A# C# F G#
+Bm7 B D F# A
+Cm7 C D# G A#
+Cm9 C D# G A# D
+C#m9 C# E G# B D#
+Dm9 D F A C E
+D#m9 D# F# A# C# F
+Em9 E G B D F#
+Fm9 F G# C D# G
+F#m9 F# A C# E G#
+Gm9 G A# D F A
+G#m9 G# B D# F# A#
+Am9 A C E G B
+A#m9 A# C# F G# C
+Bm9 B D F# A C#
+Cm9 C D# G A# D
+Cm11 C D# G A# D F
+C#m11 C# E G# B D# F#
+Dm11 D F A C E G
+D#m11 D# F# A# C# F G#
+Em11 E G B D F# A
+Fm11 F G# C D# G A#
+F#m11 F# A C# E G# B
+Gm11 G A# D F A C
+G#m11 G# B D# F# A# C#
+Am11 A C E G B D
+A#m11 A# C# F G# C D#
+Bm11 B D F# A C# E
+Cm11 C D# G A# D F
+Cm13 C D# G A# D F A
+C#m13 C# E G# B D# F# A#
+Dm13 D F A C E G B
+D#m13 D# F# A# C# F G# C
+Em13 E G B D F# A C#
+Fm13 F G# C D# G A# D
+F#m13 F# A C# E G# B D#
+Gm13 G A# D F A C E
+G#m13 G# B D# F# A# C# F
+Am13 A C E G B D F#
+A#m13 A# C# F G# C D# G
+Bm13 B D F# A C# E G#
+Cm13 C D# G A# D F A
